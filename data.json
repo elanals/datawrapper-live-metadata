@@ -1,12 +1,4 @@
 {
-    "describe": {
-        "computed-columns": [
-          {
-            "name": "Column 3",
-            "formula": "column_1new + column_2new"
-          }
-        ]
-    },
     "annotate": {
         "notes": "last updated at 15:40"
     }
